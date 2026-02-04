@@ -1,12 +1,13 @@
 # Objectives
 The main goal of this project is to help the company understand its workers better by using SQL to turn messy data into clear answers. It aims to find out exactly how many people are leaving, which groups of employees are most likely to quit, and how happy people feel in their current jobs. By doing this, the project provides a simple guide for the HR team to fix problems, keep their best employees, and make the office a better place to work.
 # Insight
--Exact Turnover Percentage: I used SQL to calculate a precise Attrition Rate, which tells the company exactly what percentage of the workforce is leaving rather than just showing raw numbers.
-
--Employee Count Tracking: The project successfully tracks 1,233 active employees, allowing the company to see the actual size of the current team after departures.
-
--Specific Risk Groups: The data shows that certain age groups and genders have higher quit rates, helping the company see exactly where the "leaks" are in the workforce.
-
--Job Happiness Levels: By looking at Job Satisfaction scores (1 to 4) across different roles, I identified which specific departments are the least happy and need more attention.
-
--Educational Backgrounds: The analysis highlights that people with certain education fields leave more often, which might mean their studies don't match their daily tasks.
+- Active Employee Count: Tracks a total of 1,233 active employees who are currently working at the company.
+- Average Age: The average age of the workforce is 37 years old, showing a mature and experienced team profile.
+- Total Attrition: A total of 237 employees have left the company.
+- Attrition Rate: The company has a turnover rate of 16.1%, which is a key number for HR to monitor for stability.
+- Gender Trends: Among those who left, 150 were men and 87 were women, suggesting that male employees have a higher departure rate in this dataset.
+- Education Background: Employees with a background in Life Sciences and Medical fields show the highest number of departures.
+- High-Risk Age Group: The most frequent departures occur in the 25–34 age range, making this group the primary focus for retention efforts.
+- Departmental Impact: The Sales and Research & Development departments experience more attrition compared to other areas like Human Resources.
+- Satisfaction Mapping: The dashboard uses a Job Satisfaction Matrix (scaled 1 to 4) to show how happy employees are in their specific roles.
+-Low Satisfaction Roles: Specific roles, such as Laboratory Technicians and Sales Executives, show a mix of high attrition and varying satisfaction scores, identifying them as areas that may need better management or workplace changes.
